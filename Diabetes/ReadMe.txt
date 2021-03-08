@@ -1,3 +1,5 @@
+Using KNN to predict if a person has diabetes or not.
+
 In this notebook I will implement an K-Nearest Neighbors algorithm. KNN algorithm was created by Evelyn Fix and Joseph Hodges in 1951, it can be used for both 
 regression and classification problems. In this example I will be using KNN for classification, since the problem consists on determining whether a person has 
 diabetes or not. The data set in use is "diabetes.csv". This csv file contains medical information related with the diabetes desiese, the variables that compose 
