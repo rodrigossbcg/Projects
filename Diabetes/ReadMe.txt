@@ -3,15 +3,15 @@ regression and classification problems. In this example I will be using KNN for 
 diabetes or not. The data set in use is "diabetes.csv". This csv file contains medical information related with the diabetes desiese, the variables that compose 
 it are the following: 
 
-Pregnancies - Number of pregnancies;
-Glucose - Glucose levels on blood;
-BloodPressure -  Diastolic blood pressure (mm Hg);
-SkinThickness - Skin Thickness (mm);
-Insulin - Insulin level on blood;
-BMI - Body Mass Index (weight in kg/(height in m)2);
-DiabetesPedigreeFunction - 
-Age - Age of the individual in years;
-Outcome - Boolean variable reflecting the existance of diabetes in each individual;
+  Pregnancies - Number of pregnancies;
+  Glucose - Glucose levels on blood;
+  BloodPressure -  Diastolic blood pressure (mm Hg);
+  SkinThickness - Skin Thickness (mm);
+  Insulin - Insulin level on blood;
+  BMI - Body Mass Index (weight in kg/(height in m)2);
+  DiabetesPedigreeFunction - 
+  Age - Age of the individual in years;
+  Outcome - Boolean variable reflecting the existance of diabetes in each individual;
 
 
 _________________________________________________________________________________________
