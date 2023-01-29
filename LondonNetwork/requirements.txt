@@ -1,0 +1,108 @@
+absl-py @ file:///opt/conda/conda-bld/absl-py_1639803114343/work
+aiohttp @ file:///C:/ci/aiohttp_1637857271452/work
+aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
+asgiref @ file:///tmp/build/80754af9/asgiref_1617740417847/work
+astor==0.8.1
+astunparse==1.6.3
+async-timeout @ file:///tmp/build/80754af9/async-timeout_1637851218186/work
+attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
+blinker==1.4
+Bottleneck==1.3.2
+brotlipy==0.7.0
+cachetools @ file:///tmp/build/80754af9/cachetools_1619597386817/work
+certifi==2021.10.8
+cffi @ file:///C:/ci/cffi_1625831749120/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click @ file:///home/linux1/recipes/ci/click_1610990599742/work
+click-plugins @ file:///Users/ktietz/demo/mc3/conda-bld/click-plugins_1630665883852/work
+cligj==0.7.2
+cryptography @ file:///C:/ci/cryptography_1616769344312/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+Django @ file:///tmp/build/80754af9/django_1601563330930/work
+django-appconf==1.0.4
+django-bootstrap-form==3.4
+django-crispy-forms==1.10.0
+django-filter==2.4.0
+django-multiselectfield==0.1.12
+django-responsive2==0.1.3
+django-widget-tweaks==1.4.8
+Fiona==1.8.4
+Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
+fonttools==4.25.0
+frozenlist @ file:///C:/ci/frozenlist_1637767289747/work
+gast @ file:///Users/ktietz/demo/mc3/conda-bld/gast_1628588903283/work
+GDAL==2.3.3
+geopandas==0.6.1
+google-auth @ file:///tmp/build/80754af9/google-auth_1626320605116/work
+google-auth-oauthlib @ file:///tmp/build/80754af9/google-auth-oauthlib_1617120569401/work
+google-pasta @ file:///Users/ktietz/demo/mc3/conda-bld/google-pasta_1630577991354/work
+grpcio @ file:///C:/ci/grpcio_1637590968244/work
+h5py==2.10.0
+idna @ file:///tmp/build/80754af9/idna_1622654382723/work
+importlib-metadata @ file:///C:/ci/importlib-metadata_1631053185730/work
+itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
+Jinja2 @ file:///tmp/build/80754af9/jinja2_1624781299557/work
+joblib @ file:///tmp/build/80754af9/joblib_1635411271373/work
+Keras @ file:///Users/ktietz/demo/mc3/conda-bld/keras_split_1630579936814/work
+Keras-Applications @ file:///tmp/build/80754af9/keras-applications_1594366238411/work
+Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
+kiwisolver @ file:///C:/ci/kiwisolver_1612282606037/work
+Markdown @ file:///C:/ci/markdown_1614364121613/work
+MarkupSafe @ file:///C:/ci/markupsafe_1621528314575/work
+matplotlib @ file:///C:/ci/matplotlib-suite_1638289827560/work
+mkl-fft==1.3.0
+mkl-random @ file:///C:/ci/mkl_random_1618854156666/work
+mkl-service==2.3.0
+multidict @ file:///C:/ci/multidict_1607362065515/work
+munch @ file:///Users/ktietz/demo/mc3/conda-bld/munch_1630566382504/work
+munkres==1.1.4
+mysqlclient==2.0.3
+numexpr @ file:///C:/ci/numexpr_1640704408721/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1618497418457/work
+oauthlib @ file:///tmp/build/80754af9/oauthlib_1623060228408/work
+olefile @ file:///Users/ktietz/demo/mc3/conda-bld/olefile_1629805411829/work
+opt-einsum @ file:///tmp/build/80754af9/opt_einsum_1621500238896/work
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pandas @ file:///C:/ci/pandas_1641443171711/work
+Pillow==8.4.0
+plotly @ file:///tmp/build/80754af9/plotly_1610565580232/work
+protobuf==3.19.1
+psycopg2==2.8.4
+pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+PyJWT @ file:///C:/ci/pyjwt_1619651841937/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
+pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
+pyproj==1.9.6
+pyreadline==2.1
+PySocks @ file:///C:/ci/pysocks_1605287845585/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2020.1
+PyYAML==6.0
+requests @ file:///tmp/build/80754af9/requests_1629994808627/work
+requests-oauthlib==1.3.0
+retrying==1.3.3
+rsa @ file:///tmp/build/80754af9/rsa_1614366226499/work
+Rtree @ file:///C:/ci/rtree_1618421009405/work
+scikit-learn @ file:///C:/ci/scikit-learn_1642599125707/work
+scipy @ file:///C:/ci/scipy_1641555198988/work
+Shapely==1.6.4.post1
+sip==4.19.13
+six @ file:///C:/ci/six_1605187374963/work
+sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
+tensorboard @ file:///home/builder/ktietz/aggregate/tensorflow_recipes/ci_te/tensorboard_1614593728657/work/tmp_pip_dir
+tensorboard-plugin-wit==1.6.0
+tensorflow==2.3.0
+tensorflow-estimator @ file:///home/builder/adipietro/tf/tensorflow-estimator_1630508970172/work/tensorflow_estimator-2.6.0-py2.py3-none-any.whl
+termcolor==1.1.0
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+tornado @ file:///C:/ci/tornado_1606942392901/work
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1631814937681/work
+urllib3 @ file:///tmp/build/80754af9/urllib3_1625084269274/work
+Werkzeug @ file:///home/ktietz/src/ci/werkzeug_1611932622770/work
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306167264/work
+wincertstore==0.2
+wrapt @ file:///C:/ci/wrapt_1638434029846/work
+yarl @ file:///C:/ci/yarl_1606940076464/work
+zipp @ file:///tmp/build/80754af9/zipp_1625570634446/work
